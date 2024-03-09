@@ -5,8 +5,9 @@
   "license": "AGPL-3.0-only",
   "description": "Desktop environment in the browser!",
   "homepage": "https://puter.com",
-  "directories": {
-    "lib": "lib"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dragonknftcommunity/puter-tea.git"
   },
   "devDependencies": {
     "chalk": "^4.1.0",
